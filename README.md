@@ -1,4 +1,4 @@
-# MCP RCE Proof of Concept
+# MCP RCE Proof of Concept - CVE-2026-23744
 
 ## Description
 This script is a proof-of-concept for testing potential remote command execution (RCE) in an MCP `/api/mcp/connect` endpoint.
